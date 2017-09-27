@@ -1,0 +1,12 @@
+<com.flurgle.camerakit.CameraView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:camerakit="http://schemas.android.com/apk/res-auto"
+    camerakit:ckCropOutput="true"
+    camerakit:ckPermissions="strict"
+    android:layout_width="@dimen/one_inch"
+    android:layout_height="@dimen/one_inch"
+    android:id="@+id/cv_camWindow"
+    tools:context="com.ael_mnisiddique.com.squarecam.CameraWindowFragment" />
+

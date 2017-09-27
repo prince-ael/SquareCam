@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SquareCam</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="error_dialog_title">Are You Sure ?</string>
+
+    <string name="error_dialog_content">You would not accept all the permissions required by this app to work properly.</string>
+</resources>

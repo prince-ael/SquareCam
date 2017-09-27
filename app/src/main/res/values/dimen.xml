@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="one_inch">160dp</dimen>
+    <dimen name="capture_btn_size">56dp</dimen>
+
+    <dimen name="bottom_bar_height">56dp</dimen>
+
+    <dimen name="camera_icon_padding">16dp</dimen>
+
+    <dimen name="circle_offset_to_bottom">28dp</dimen>
+
+</resources>
